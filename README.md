@@ -29,7 +29,7 @@ share their work, amplifying their voice and impact in our city.
 a user’s location to orient them towards zones, filled
 with virtual “eggs” to discover and unlock. These
 caches of information can include audio, visual or even augmented-reality content from local content-
-creators. A supporting [**website**](www.egghunter.site) was created to support users learning more about the
+creators. A supporting [**website**](https://www.egghunter.site) was created to support users learning more about the
 application.
 
 </p>
@@ -107,4 +107,4 @@ Next, we need to decide what type of database would best support our application
 
 ## ❓ FAQ
 
-If you have questions about this project and want answers, then check out our [**WEBSITE**](www.egghunter.site) and contact us in Github!
+If you have questions about this project and want answers, then check out our [**WEBSITE**](https://www.egghunter.site) and contact us in Github!
