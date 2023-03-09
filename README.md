@@ -31,6 +31,8 @@ with virtual “eggs” to discover and unlock. These
 caches of information can include audio, visual or even augmented-reality content from local content-
 creators. A supporting [**website**](https://www.egghunter.site) was created to support users learning more about the
 application.
+ 
+We already uploaded the report meeting in ![YouTube Video Views](https://img.shields.io/youtube/views/spdII8rqkaM), welecome to watch the [**App Demo Report**](https://youtu.be/spdII8rqkaM).
 
 </p>
 
