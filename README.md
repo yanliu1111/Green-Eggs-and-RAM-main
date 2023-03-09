@@ -32,7 +32,7 @@ caches of information can include audio, visual or even augmented-reality conten
 creators. A supporting [**website**](https://www.egghunter.site) was created to support users learning more about the
 application.
  
-We already uploaded the report meeting in ![YouTube Video Views](https://img.shields.io/youtube/views/spdII8rqkaM), welecome to watch the [**App Demo Report**](https://youtu.be/spdII8rqkaM).
+We already uploaded the report meeting in <a href="https://youtu.be/spdII8rqkaM" title="My Project Demo"><img align="center" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_48.png" alt="my-project-demo" height="30" /> </a> Welcome to watch the [**App Demo Report**](https://youtu.be/spdII8rqkaM).
 
 </p>
 
